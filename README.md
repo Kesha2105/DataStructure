@@ -1,2 +1,2 @@
 # DataStructure
-All the dsa problems 
+All the dsa problems with solution description 
